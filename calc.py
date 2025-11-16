@@ -6,9 +6,13 @@ def sutract(a, b):
 def main():
 
     a = input("enter first number: ")
+    op = input("chose the operation (+-x/): ")
     b = input("enter second number: ")
 
-    ans = subtract(a, b)
+    if op not in ["+", "-", "+","x"]:
+        raise("Invalid operation or currently this type of operation is not supported")
+    if op == "-":
+        ans = subtract(a, b)
 
     print("Your calucated result is: ", ans)
     print("Sum is:", add(a, b))
