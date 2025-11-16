@@ -1,7 +1,7 @@
 """sample calc"""
 
 def sutract(a, b):
-    retrun a-b
+    return a-b
 
 def main():
 
@@ -11,7 +11,11 @@ def main():
     ans = subtract(a, b)
 
     print("Your calucated result is: ", ans)
+    print("Sum is:", add(a, b))
     # print("you are in main")
+def add(a, b):
+    return a + b
+    
 
 if __name__ = "__main__":
     main()
