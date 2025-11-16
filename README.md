@@ -1,2 +1,2 @@
 # git_demo
-Git practice - bob
+Git practice for chonks
