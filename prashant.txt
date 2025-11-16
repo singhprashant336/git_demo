@@ -6,3 +6,4 @@ third_line go away
 second_line for rebase
 soft reset line
 soft reset line 2
+line for tag v1.0
