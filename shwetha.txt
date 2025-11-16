@@ -1,1 +1,29 @@
+<<<<<<< HEAD
 first_line shwetha_change
+=======
+first_line only_shwetha_changes allowed here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello I'm a bug
+>>>>>>> da71411 (Update shwetha.txt)
