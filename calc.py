@@ -20,9 +20,10 @@ def main():
     if op == "x":
         ans = multiply(a, b)
 
+    if op == "+":
+        ans = add(a, b)
     print("Your calucated result is: ", ans)
-    print("Sum is:", add(a, b))
-    # print("you are in main")
+
 def add(a, b):
     return a + b
     
