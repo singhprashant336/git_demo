@@ -4,3 +4,5 @@ second line prashant
 second_line shwetha_change
 third_line go away
 second_line for rebase
+soft reset line
+soft reset line 2
